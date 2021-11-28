@@ -1,0 +1,7 @@
+{
+  "name": "appControle_Telas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
